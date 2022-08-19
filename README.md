@@ -1,6 +1,6 @@
 # AngularSpend128billionDollars
 
-### You can test from this url: [Click For Test](https://iamumut.com/angular-spend-128-billion-dollars/) 
+### You can test from this url: [Click For Test](https://iamumut.com/angular-spend-128billion-dollars/) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
